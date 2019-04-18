@@ -1,7 +1,7 @@
 <img src="http://laravel-gui.io/images/logo.png" width="160">
 
 # Laravel GUI
-Laravel GUI, A free simple app to run artisan, composer and NPM commands and other helpful actions and get output in one click!
+Laravel GUI, A free simple app to run artisan, composer and NPM commands and some other helpful actions and get output in one click!
 
 # Download
 http://laravel-gui.io
@@ -43,4 +43,5 @@ If you have any concern please do not hesitate to create an issue here.
 
 ## Contact
 Email: info@laravel-gui.io
-Twitter: @laravelgui
+
+Twitter: [@laravelgui](https://twitter.com/Laravelgui)
