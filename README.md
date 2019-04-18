@@ -1,7 +1,13 @@
 <img src="http://laravel-gui.io/images/logo.png" width="160">
 
 # Laravel GUI
-Laravel GUI, To simply run artisan, composer and NPM commands and other helpful actions and get output in one click!
+Laravel GUI, A free simple app to run artisan, composer and NPM commands and other helpful actions and get output in one click!
+
+# Download
+http://laravel-gui.io
+
+Compatible with Windows, Mac OS X and Linux
+
 
 <img src="http://laravel-gui.io/images/screenshots/screenshot.gif" width="1020">
 
@@ -36,4 +42,5 @@ Add Laravel project path locally or connect to server via SSH
 If you have any concern please do not hesitate to create an issue here.
 
 ## Contact
-info@laravel-gui.io
+Email: info@laravel-gui.io
+Twitter: @laravelgui
