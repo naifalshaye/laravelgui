@@ -42,6 +42,6 @@ Add Laravel project path locally or connect to server via SSH
 If you have any concern please do not hesitate to create an issue here.
 
 ## Contact
-Email: info@laravel-gui.io
+Email: naif@naif.io
 
 Twitter: [@laravelgui](https://twitter.com/Laravelgui)
